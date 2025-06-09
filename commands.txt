@@ -1,0 +1,45 @@
+📋 Voice Assistant – My Test Commands  
+(Used during testing and demo recording)
+
+---
+
+ Reminder Commands:
+ Set a reminder for 10 seconds  
+ Remind me after 5 seconds to drink water  
+ I have to check my emails in 20 seconds  
+
+---
+
+📝 Note-Taking Commands:
+ Take a note that I have a meeting on Friday  
+ Note that my presentation is on 25th May  
+ I need to call the doctor tomorrow – save that  
+
+---
+ Information Search (Wikipedia):
+ Who is A. P. J. Abdul Kalam?  
+ Tell me something about Artificial Intelligence  
+ What is Python used for?  
+
+---
+
+ Smart Chat (OpenAI GPT responses):
+ What is the difference between AI and Machine Learning?  
+ How does a neural network actually work?  
+ Explain recursion in a simple way  
+
+---
+
+ Control & Exit:
+ Stop listening  
+Exit  
+ Shut down  
+
+---
+
+ Notes:
+ These are actual voice commands I tested during development.
+ I spoke these naturally, and the assistant gave back voice replies.
+ Everything was tested using a mic and real-time transcription.
+
+ Project by: Varisha Khanam
